@@ -12,6 +12,6 @@ Logic
           2.a.1 Increment j as we have to check whether this left is still less than the next greater element
    2.b If LeftMinHolders[i] > RightMaxHolders[j]
        2.b.1 Increment i as we have to check whether left element is still greater than the right element
-       
+3. Print maxDigg
       
   
